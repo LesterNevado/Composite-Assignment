@@ -21,3 +21,4 @@ New Era University is composed of various organizational units. These units can 
 - Calculating and displaying the total number of students in a College.
 - Calculating and displaying the total budget of a College.
 
+![alt text](<UML Composite Pattern.png>)
